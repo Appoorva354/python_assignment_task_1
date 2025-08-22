@@ -4,4 +4,5 @@ def factorial(n):
         result=result*i
     return result
 num=int(input("Enter a number: "))
-print(f"{num} factorial = {factorial(num)}")
+print(f"{num} "
+      f"factorial = {factorial(num)}")
