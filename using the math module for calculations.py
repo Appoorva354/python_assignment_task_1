@@ -1,7 +1,7 @@
 
 n=int(input("Enter a number: "))
 import math
-print(math.sqrt(n))
-print(math.log(n))
-print(math.sin(n))
+print("Squareroot:",math.sqrt(n))
+print("Logarithm:",math.log(n))
+print("sine:",math.sin(n))
 
